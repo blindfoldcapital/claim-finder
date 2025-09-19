@@ -1,0 +1,3663 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 218,
+        "ID": "1121466416551074772",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106102466",
+        "LEG_CSE_NR": "COC    048936",
+        "CSE_NAME": "JUNIPER MTN. LS MINE",
+        "CMMDTY": "CALCIUM, LIMESTONE",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "MOFFAT LIMESTONE CO",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "1990-05-04T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 1 intersecting parts\naliquot\n36 sections retrieved\n561 intersected features retrieved\n17 matching sections found\nunioning cleaned section features, \n36 sections retrieved\n561 intersected features retrieved",
+        "CSE_META": "CO 06 0060N 0950W 014 A W2NWNW|CO 06 0060N 0950W 015 A NENE",
+        "RCRD_ACRS": 40,
+        "SF_ID": "a023d00000GZ7epAAD",
+        "Created": "2023-06-22T14:39:13Z",
+        "Modified": "2024-10-05T20:19:14Z",
+        "Shape_Length": 0.021508709510278147,
+        "Shape_Area": 0.000025849312114004735
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -108.03860881499998,
+                40.474597989000074
+              ],
+              [
+                -108.04336317399998,
+                40.474594215000025
+              ],
+              [
+                -108.04335525399995,
+                40.47822096300007
+              ],
+              [
+                -108.03859883899997,
+                40.478224459000046
+              ],
+              [
+                -108.03622652099995,
+                40.47822361100003
+              ],
+              [
+                -108.036231349,
+                40.476410507000026
+              ],
+              [
+                -108.03623617699998,
+                40.474597404000065
+              ],
+              [
+                -108.03860881499998,
+                40.474597989000074
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 219,
+        "ID": "1121466416551075570",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106100648",
+        "LEG_CSE_NR": "COC    051395",
+        "CSE_NAME": "Sunnyside_American_Tunnel",
+        "CMMDTY": "GOLD, LODE",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "SUNNYSIDE GOLD CORP",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "1988-03-11T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "15: Map to entire section Freeform (RENDER)\n, Only township found\n, Only township found\n, Only township found\n, SIMPLE\nSECTION CONTAINS MORE THAN 65 POLYGONS\nTWN CONTAINS PB/UP/UU\naliquot\n36 sections retrieved\n2893 intersected features retrieved\ntodo hand",
+        "CSE_META": "CO 23 0420N 0060W 019 1 ALL|CO 23 0420N 0070W 014 1 ALL|CO 23 0420N 0070W 015 1 ALL|CO 23 0420N 0070W 023 1 ALL|CO 23 0420N 0060W 019 U SW|CO 23 0420N 0070W 015 U SENE|CO 23 0420N 0070W 023 U NWNE|CO 23 0420N 0070W 014 U NWNW|CO 23 0420N 0070W 014 U N2SW|CO 23 0420N 0070W 014 U SWSE",
+        "RCRD_ACRS": 6.9,
+        "SF_ID": "a023d00000GZ7eDAAT",
+        "Created": "2023-06-22T14:39:14Z",
+        "Modified": "2024-10-05T20:19:13Z",
+        "Shape_Length": 0.13793766970934807,
+        "Shape_Area": 0.0005007528655467452
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -107.56874284799994,
+                37.875577116000045
+              ],
+              [
+                -107.57784085999998,
+                37.87551662800007
+              ],
+              [
+                -107.57784086599997,
+                37.88276319900007
+              ],
+              [
+                -107.57784084499997,
+                37.88276319900007
+              ],
+              [
+                -107.57784084799994,
+                37.88399478400004
+              ],
+              [
+                -107.57784084899998,
+                37.88481980300003
+              ],
+              [
+                -107.57784085299994,
+                37.88600247800008
+              ],
+              [
+                -107.57784087099998,
+                37.89000976900007
+              ],
+              [
+                -107.57229723499995,
+                37.89006147900005
+              ],
+              [
+                -107.57229914599998,
+                37.89006176000004
+              ],
+              [
+                -107.57173275399998,
+                37.890067059000046
+              ],
+              [
+                -107.57054324799998,
+                37.89007817900006
+              ],
+              [
+                -107.56807104199999,
+                37.89010125100003
+              ],
+              [
+                -107.56740285099994,
+                37.89010747800006
+              ],
+              [
+                -107.56664334299995,
+                37.89011455200006
+              ],
+              [
+                -107.56664130199994,
+                37.890114237000034
+              ],
+              [
+                -107.56302907799994,
+                37.89014793300004
+              ],
+              [
+                -107.56302901699996,
+                37.89014814700005
+              ],
+              [
+                -107.56169255999998,
+                37.89016054100006
+              ],
+              [
+                -107.56140338299997,
+                37.890163220000034
+              ],
+              [
+                -107.55963610899994,
+                37.89017958200003
+              ],
+              [
+                -107.559636448,
+                37.889612818000046
+              ],
+              [
+                -107.55963644899998,
+                37.889612818000046
+              ],
+              [
+                -107.55963739699996,
+                37.888028976000044
+              ],
+              [
+                -107.55963739599997,
+                37.888028976000044
+              ],
+              [
+                -107.55963773399998,
+                37.88746836800004
+              ],
+              [
+                -107.55963800499995,
+                37.887015561000055
+              ],
+              [
+                -107.55963842099999,
+                37.886332622000054
+              ],
+              [
+                -107.55963850699999,
+                37.88619190400004
+              ],
+              [
+                -107.55963940299995,
+                37.88468915400006
+              ],
+              [
+                -107.55963940799995,
+                37.88468915400006
+              ],
+              [
+                -107.55964018999998,
+                37.883384947000025
+              ],
+              [
+                -107.55964018199995,
+                37.883384947000025
+              ],
+              [
+                -107.55964062399994,
+                37.882647306000024
+              ],
+              [
+                -107.55964066299998,
+                37.88258163200004
+              ],
+              [
+                -107.55964110799994,
+                37.881839555000056
+              ],
+              [
+                -107.55964111699996,
+                37.881839556000045
+              ],
+              [
+                -107.55964121299996,
+                37.88168054300007
+              ],
+              [
+                -107.55964120299996,
+                37.881680533000065
+              ],
+              [
+                -107.55964133299995,
+                37.88146290800006
+              ],
+              [
+                -107.55964182499997,
+                37.88064407500008
+              ],
+              [
+                -107.55964203599996,
+                37.88029163900006
+              ],
+              [
+                -107.55964204599996,
+                37.88029164900007
+              ],
+              [
+                -107.55964363499999,
+                37.87763950100003
+              ],
+              [
+                -107.55964362999998,
+                37.87763950100003
+              ],
+              [
+                -107.55964391799995,
+                37.87716143100005
+              ],
+              [
+                -107.55964412599997,
+                37.87681446600004
+              ],
+              [
+                -107.55964433899999,
+                37.87646168200007
+              ],
+              [
+                -107.55964455699996,
+                37.87609967800006
+              ],
+              [
+                -107.55964483599996,
+                37.875637605000065
+              ],
+              [
+                -107.56391177099994,
+                37.875605052000026
+              ],
+              [
+                -107.56820762499996,
+                37.87558067400005
+              ],
+              [
+                -107.56874284799994,
+                37.875577124000074
+              ],
+              [
+                -107.56874284799994,
+                37.875577116000045
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -107.59596498299999,
+                37.88661302500003
+              ],
+              [
+                -107.59958980599998,
+                37.88661302500003
+              ],
+              [
+                -107.59958980599998,
+                37.89023784700004
+              ],
+              [
+                -107.60683945199997,
+                37.89023784700004
+              ],
+              [
+                -107.60683945299996,
+                37.89748749200004
+              ],
+              [
+                -107.61046427599996,
+                37.89748749200004
+              ],
+              [
+                -107.61046427599996,
+                37.901112314000045
+              ],
+              [
+                -107.60683945299996,
+                37.901112314000045
+              ],
+              [
+                -107.60683945299996,
+                37.90473713700004
+              ],
+              [
+                -107.59234016199997,
+                37.90473713700004
+              ],
+              [
+                -107.59234016199997,
+                37.89023784800003
+              ],
+              [
+                -107.59596498399998,
+                37.89023784700004
+              ],
+              [
+                -107.59596498299999,
+                37.88661302500003
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 220,
+        "ID": "1121466416551075608",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106254925",
+        "LEG_CSE_NR": "COC    051793",
+        "CSE_NAME": "WHO DO MINE",
+        "CMMDTY": "GOLD, LODE",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "AGC RESOURCES LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Previous Int Party",
+        "CSE_DISP_DT": "1983-12-16T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 0 intersecting parts\naliquot\n36 sections retrieved\n12619 intersected features retrieved\n5019 matching sections found\nformerly known as 4.2",
+        "CSE_META": "CO 06 0010N 0720W 012 A NWSE",
+        "RCRD_ACRS": 2.4,
+        "SF_ID": "a023d00000GYsacAAD",
+        "Created": "2023-06-22T14:39:14Z",
+        "Modified": "2024-10-05T19:54:53Z",
+        "Shape_Length": 0.01639761514718698,
+        "Shape_Area": 0.000016503881944939623
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.40183570699998,
+                40.064236910000034
+              ],
+              [
+                -105.39719038299995,
+                40.064206117000026
+              ],
+              [
+                -105.39718793699996,
+                40.060660821000056
+              ],
+              [
+                -105.40183849699997,
+                40.060680621000074
+              ],
+              [
+                -105.40183570699998,
+                40.064236910000034
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 221,
+        "ID": "1121466416551075653",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105965472",
+        "LEG_CSE_NR": "COC    052022",
+        "CSE_NAME": "Lee Placer",
+        "CMMDTY": "GOLD, PLACER",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": null,
+        "PCT_INT_SEC": null,
+        "INT_REL_SEC": null,
+        "CSE_DISP_DT": "1986-09-30T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: \n36 sections retrieved\n3919 intersected features retrieved",
+        "CSE_META": "CO 06 0030S 0720W 020 A SENW",
+        "RCRD_ACRS": 0.25,
+        "SF_ID": "a023d00000GYkrLAAT",
+        "Created": "2023-06-22T14:39:14Z",
+        "Modified": "2024-10-05T19:44:50Z",
+        "Shape_Length": 0.016139331837438518,
+        "Shape_Area": 0.000015927957716618733
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.47434713699994,
+                39.777681234000056
+              ],
+              [
+                -105.46971186499997,
+                39.777773499000034
+              ],
+              [
+                -105.46979901999998,
+                39.774337407000075
+              ],
+              [
+                -105.47439148399997,
+                39.77420980900007
+              ],
+              [
+                -105.47434713699994,
+                39.777681234000056
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 222,
+        "ID": "1121466416551075678",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105952325",
+        "LEG_CSE_NR": "COC    052049",
+        "CSE_NAME": "WEST SUNDAY MINE",
+        "CMMDTY": "URANIUM, (U308 CONTENT)",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "PINON RIDGE MINING LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "1981-03-23T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "1: TWN CONTAINS PB/UP/UU\naliquot\n37 sections retrieved\n528 intersected features retrieved\ntodo handle unclean township\n16 matching sections found\nsection 14 issimple: False\nSESW,SESE,SWSW,NESW,NENE,NWSW,NWSE,NESE,NWNW,SWNE,SWNW,NWNE,SWSE,SENW,SENE,NENW, \n",
+        "CSE_META": "CO 23 0440N 0180W 014 A W2NE|CO 23 0440N 0180W 014 A SWNW|CO 23 0440N 0180W 014 A W2SE|CO 23 0440N 0180W 014 A SESE|CO 23 0440N 0180W 014 A SW|CO 23 0440N 0180W 015 A SENE|CO 23 0440N 0180W 015 A E2SE|CO 23 0440N 0180W 022 A NENE|CO 23 0440N 0180W 023 A NE|CO 23 0440N 0180W 023 A N2NW|CO 23 0440N 0180W 023 A SENW|CO 23 0440N 0180W 023 A NESE|CO 23 0440N 0180W 024 A NWNW",
+        "RCRD_ACRS": 93,
+        "SF_ID": "a023d00000GYpqeAAD",
+        "Created": "2023-06-22T14:39:14Z",
+        "Modified": "2024-10-05T19:51:23Z",
+        "Shape_Length": 0.11324694447988316,
+        "Shape_Area": 0.0003830907659177034
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -108.81577580399994,
+                38.06218030000008
+              ],
+              [
+                -108.81576775899998,
+                38.058577745000036
+              ],
+              [
+                -108.82036925699998,
+                38.058584446000054
+              ],
+              [
+                -108.82037518799996,
+                38.06219088800003
+              ],
+              [
+                -108.82497457399995,
+                38.062201310000034
+              ],
+              [
+                -108.82959493299995,
+                38.06221156500004
+              ],
+              [
+                -108.829595585,
+                38.065811146000044
+              ],
+              [
+                -108.83421277599996,
+                38.06583037200005
+              ],
+              [
+                -108.838829579,
+                38.065831572000036
+              ],
+              [
+                -108.83883456299998,
+                38.06944990300008
+              ],
+              [
+                -108.838846048,
+                38.07308120600004
+              ],
+              [
+                -108.83885755999995,
+                38.07671242500004
+              ],
+              [
+                -108.83886796299998,
+                38.08032047800003
+              ],
+              [
+                -108.83426052299995,
+                38.08031197400004
+              ],
+              [
+                -108.82965486099994,
+                38.08029305300005
+              ],
+              [
+                -108.82963606899995,
+                38.076680139000075
+              ],
+              [
+                -108.82502693499998,
+                38.07665394000003
+              ],
+              [
+                -108.82504919999997,
+                38.08027396600005
+              ],
+              [
+                -108.82507146499995,
+                38.08389401900007
+              ],
+              [
+                -108.82045774599999,
+                38.08388204200003
+              ],
+              [
+                -108.82044006599995,
+                38.080254850000074
+              ],
+              [
+                -108.82042238399998,
+                38.07662757500003
+              ],
+              [
+                -108.82040464699998,
+                38.07299238200005
+              ],
+              [
+                -108.81580476299996,
+                38.072966517000054
+              ],
+              [
+                -108.81579166499995,
+                38.06933196400007
+              ],
+              [
+                -108.81111727699994,
+                38.06932187600006
+              ],
+              [
+                -108.81112354099997,
+                38.06575182100005
+              ],
+              [
+                -108.81578373199994,
+                38.06575613200005
+              ],
+              [
+                -108.81577580399994,
+                38.06218030000008
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 224,
+        "ID": "1121466416551076033",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106029180",
+        "LEG_CSE_NR": "COC    053227",
+        "CSE_NAME": "SUNDAY MINE COMPLEX",
+        "CMMDTY": "URANIUM AND OTHER MIN",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "PINON RIDGE MINING LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "1993-10-06T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "1: aliquot\n36 sections retrieved\n678 intersected features retrieved\n20 matching sections found\nsection 19 issimple: False\n12,SWSE,NENE,NENW,SENE,SENW,NESW,NWSE,9,11,SESW,10,NWNE,5,NESE,7,6,SWNE,8,SESE, 1\n36 sections retrieved\n678 intersected features retr",
+        "CSE_META": "CO 23 0440N 0170W 019 A E2W2|CO 23 0440N 0170W 019 L 5|CO 23 0440N 0170W 019 L 6|CO 23 0440N 0170W 019 L 7|CO 23 0440N 0170W 019 L 8|CO 23 0440N 0170W 019 L 9|CO 23 0440N 0170W 019 L 10|CO 23 0440N 0170W 019 L 11|CO 23 0440N 0170W 019 L 12|CO 23 0440N 0180W 013 A S2|CO 23 0440N 0180W 024 A N2|CO 23 0440N 0180W 024 A N2S2",
+        "RCRD_ACRS": 37,
+        "SF_ID": "a023d00000GYt7AAAT",
+        "Created": "2023-06-22T14:39:14Z",
+        "Modified": "2024-10-05T19:55:34Z",
+        "Shape_Length": 0.10449201677034563,
+        "Shape_Area": 0.0005076124922278035
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -108.79733655899997,
+                38.05500025400005
+              ],
+              [
+                -108.797387298,
+                38.058592504000046
+              ],
+              [
+                -108.80194587799997,
+                38.05858900800007
+              ],
+              [
+                -108.80650445699996,
+                38.05858534600003
+              ],
+              [
+                -108.811136122,
+                38.05858163000005
+              ],
+              [
+                -108.81576775899998,
+                38.058577745000036
+              ],
+              [
+                -108.81577580399994,
+                38.06218030000008
+              ],
+              [
+                -108.81578373199994,
+                38.06575613200005
+              ],
+              [
+                -108.81579166499995,
+                38.06933196400007
+              ],
+              [
+                -108.81580476299996,
+                38.072966517000054
+              ],
+              [
+                -108.81581786099997,
+                38.07660104300004
+              ],
+              [
+                -108.81117741899999,
+                38.07658920500006
+              ],
+              [
+                -108.80653697799994,
+                38.07657720000003
+              ],
+              [
+                -108.80193709399998,
+                38.07656508500003
+              ],
+              [
+                -108.79733720999997,
+                38.07655283100007
+              ],
+              [
+                -108.79729783099998,
+                38.07292252600007
+              ],
+              [
+                -108.79725848099997,
+                38.06929222300005
+              ],
+              [
+                -108.794288543,
+                38.06928566400006
+              ],
+              [
+                -108.78970543599996,
+                38.06927515900003
+              ],
+              [
+                -108.78512230299998,
+                38.06926462700005
+              ],
+              [
+                -108.78512481299998,
+                38.065669239000044
+              ],
+              [
+                -108.78512729499994,
+                38.06207382300005
+              ],
+              [
+                -108.78512980599999,
+                38.058463018000054
+              ],
+              [
+                -108.78513228899999,
+                38.05485218700005
+              ],
+              [
+                -108.78971434099998,
+                38.054907858000036
+              ],
+              [
+                -108.79429639399996,
+                38.05496350100003
+              ],
+              [
+                -108.79733655899997,
+                38.05500025400005
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 225,
+        "ID": "1121466416551079918",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106150957",
+        "LEG_CSE_NR": "COC    060321",
+        "CSE_NAME": "MINERAL JOE C JD 6",
+        "CMMDTY": "URANIUM, (U308 CONTENT)",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "COTTER CORP",
+        "PCT_INT_SEC": 0,
+        "INT_REL_SEC": "Previous Int Party",
+        "CSE_DISP_DT": "1998-03-18T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "3: MIDPOINT\nATTRIBUTE BUCKET, WITHIN BUCKET, INTERSECT BUCKET COUNTS ARE ALL DIFFERENT\nDOES NOT MATCH PM ANGLES\naliquot\n36 sections retrieved\n735 intersected features retrieved\n35 matching sections found\nsection 22 issimple: False",
+        "CSE_META": "CO 23 0460N 0170W 022 A NE",
+        "RCRD_ACRS": 16,
+        "SF_ID": "a023d00000GYohXAAT",
+        "Created": "2023-06-22T14:39:17Z",
+        "Modified": "2024-10-05T19:49:57Z",
+        "Shape_Length": 0.03394509626294196,
+        "Shape_Area": 0.00006936551071496977
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -108.72340194099996,
+                38.22576567200008
+              ],
+              [
+                -108.72814199399994,
+                38.22581589300006
+              ],
+              [
+                -108.72868170799995,
+                38.225821616000076
+              ],
+              [
+                -108.73224107999994,
+                38.22585945000003
+              ],
+              [
+                -108.73287968499994,
+                38.22619389000005
+              ],
+              [
+                -108.73382032599994,
+                38.226684583000065
+              ],
+              [
+                -108.73370857199995,
+                38.22688527500003
+              ],
+              [
+                -108.73296868299997,
+                38.22821365400006
+              ],
+              [
+                -108.732856901,
+                38.22841437400007
+              ],
+              [
+                -108.73284625899998,
+                38.22947650400005
+              ],
+              [
+                -108.73280955599995,
+                38.23308642300003
+              ],
+              [
+                -108.72811669999999,
+                38.23306881100007
+              ],
+              [
+                -108.72342381699997,
+                38.233051199000045
+              ],
+              [
+                -108.72341287999996,
+                38.22940845000005
+              ],
+              [
+                -108.72340194099996,
+                38.22576567200008
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 226,
+        "ID": "1121466416551080966",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106102442",
+        "LEG_CSE_NR": "COC    062522",
+        "CSE_NAME": "VAN 4 MINE",
+        "CMMDTY": "URANIUM, (U308 CONTENT)",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "PINON RIDGE MINING LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "1998-12-02T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: \n36 sections retrieved\n735 intersected features retrieved",
+        "CSE_META": "CO 23 0460N 0170W 029 A SWNE",
+        "RCRD_ACRS": 8.4,
+        "SF_ID": "a023d00000GZ6bGAAT",
+        "Created": "2023-06-22T14:39:18Z",
+        "Modified": "2024-10-05T20:17:50Z",
+        "Shape_Length": 0.016468246880053772,
+        "Shape_Area": 0.000016714250268868278
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -108.76979951299995,
+                38.21155797400007
+              ],
+              [
+                -108.76982994899998,
+                38.21518983300007
+              ],
+              [
+                -108.765232331,
+                38.215194722000035
+              ],
+              [
+                -108.76519281199995,
+                38.21156300100006
+              ],
+              [
+                -108.76979951299995,
+                38.21155797400007
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 227,
+        "ID": "1121466416551082510",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105873216",
+        "LEG_CSE_NR": "COC    065918",
+        "CSE_NAME": "Midas Mine aka Ophir Lode",
+        "CMMDTY": "TWO OR MORE MINERALS",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "MIDAS MINING CO INC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2002-08-02T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 0 intersecting parts\naliquot\n36 sections retrieved\n1110 intersected features retrieved\n19 matching sections found\nformerly known as 4.2",
+        "CSE_META": "CO 23 0430N 0060W 020 U NWNW",
+        "RCRD_ACRS": 2.1,
+        "SF_ID": "a023d00000GZVGJAA5",
+        "Created": "2023-06-22T14:39:20Z",
+        "Modified": "2024-10-05T20:59:08Z",
+        "Shape_Length": 0.016547456603978137,
+        "Shape_Area": 0.000016907900712840046
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -107.55925957199997,
+                37.97824015900005
+              ],
+              [
+                -107.55467229499999,
+                37.978283797000074
+              ],
+              [
+                -107.55469175699994,
+                37.97459827800003
+              ],
+              [
+                -107.55928078199997,
+                37.974555047000024
+              ],
+              [
+                -107.55925957199997,
+                37.97824015900005
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 228,
+        "ID": "1121466416551082804",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106213194",
+        "LEG_CSE_NR": "COC    066619",
+        "CSE_NAME": "Cripple Creek",
+        "CMMDTY": "Gold",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "THE TURQUOISE CONNECTION INC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2002-11-26T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 3 intersecting parts\nsubdivide of NWSE returned null\naliquot\n36 sections retrieved\n26978 intersected features retrieved\n1609 matching sections found\nunioning cleaned section features, 3 intersecting parts\nsubdivide of E2E2SE returned null\naliquot\n36 ",
+        "CSE_META": "CO 06 0150S 0700W 013 3 NWSENWNE|CO 06 0150S 0700W 013 3 E2E2SENWNE",
+        "RCRD_ACRS": 1,
+        "SF_ID": "a023d00000GZYZ1AAP",
+        "Created": "2023-06-22T14:39:20Z",
+        "Modified": "2024-10-05T21:06:38Z",
+        "Shape_Length": 0.0031265002551913953,
+        "Shape_Area": 1.8490553681363183e-7
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.17337851499997,
+                38.754504730000065
+              ],
+              [
+                -105.17438618199998,
+                38.75446124000007
+              ],
+              [
+                -105.17409141399997,
+                38.75470571000005
+              ],
+              [
+                -105.17410449599998,
+                38.75471835900004
+              ],
+              [
+                -105.173782583,
+                38.754732268000055
+              ],
+              [
+                -105.17337851499997,
+                38.754504730000065
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -105.17238596099997,
+                38.75454755800007
+              ],
+              [
+                -105.17249681099997,
+                38.75454277500006
+              ],
+              [
+                -105.17239265599994,
+                38.75461910300004
+              ],
+              [
+                -105.17238596099997,
+                38.75454755800007
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -105.17488687999997,
+                38.755474752000055
+              ],
+              [
+                -105.17501584999997,
+                38.75559943500008
+              ],
+              [
+                -105.17500542899995,
+                38.75568295100004
+              ],
+              [
+                -105.17481915399998,
+                38.75561728100007
+              ],
+              [
+                -105.17488687999997,
+                38.755474752000055
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 229,
+        "ID": "1121466416551083165",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106211747",
+        "LEG_CSE_NR": "COC    067271",
+        "CSE_NAME": "BLUE JET MINE PROJEC",
+        "CMMDTY": "GOLD, PLACER",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "BLUE JET MINING INC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Holder/billee",
+        "CSE_DISP_DT": "1984-08-08T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "8.3: Map to entire section Freeform (RENDER)\n",
+        "CSE_META": "CO 06 0090N 0920W 005 E ALL",
+        "RCRD_ACRS": 80,
+        "SF_ID": "a023d00000GZOqiAAH",
+        "Created": "2023-06-22T14:39:20Z",
+        "Modified": "2025-02-05T18:42:29Z",
+        "Shape_Length": 0.06710500050291826,
+        "Shape_Area": 0.00027635301641644027
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -107.74919778599997,
+                40.76097046000007
+              ],
+              [
+                -107.75394833399997,
+                40.76096792100003
+              ],
+              [
+                -107.75398693199998,
+                40.76459051300003
+              ],
+              [
+                -107.75402550299998,
+                40.76821313200003
+              ],
+              [
+                -107.75405171199998,
+                40.77183536300004
+              ],
+              [
+                -107.75407833699995,
+                40.77549384400004
+              ],
+              [
+                -107.74930859399996,
+                40.77548918800005
+              ],
+              [
+                -107.744538848,
+                40.77548451300004
+              ],
+              [
+                -107.7397691,
+                40.775479863000044
+              ],
+              [
+                -107.73499935399997,
+                40.77547521500003
+              ],
+              [
+                -107.73498906199995,
+                40.771847179000076
+              ],
+              [
+                -107.73497879699994,
+                40.76822458700008
+              ],
+              [
+                -107.73496244899997,
+                40.76460135800005
+              ],
+              [
+                -107.73494607299995,
+                40.760978099000056
+              ],
+              [
+                -107.73969665299995,
+                40.76097555300004
+              ],
+              [
+                -107.74444720499997,
+                40.760973007000075
+              ],
+              [
+                -107.74919778599997,
+                40.76097046000007
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 230,
+        "ID": "1121466416551083599",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105872826",
+        "LEG_CSE_NR": "COC    068246",
+        "CSE_NAME": "MARRS MEMORIALS",
+        "CMMDTY": "STONE, SPECIALTY",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "CO QUARRIES INC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2004-10-21T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: 1\n36 sections retrieved\n534 intersected features retrieved\n16 matching sections found",
+        "CSE_META": "CO 23 0470N 0120E 003 L 3",
+        "RCRD_ACRS": 2,
+        "SF_ID": "a023d00000GZbtqAAD",
+        "Created": "2023-06-22T14:39:21Z",
+        "Modified": "2024-10-05T21:12:08Z",
+        "Shape_Length": 0.017183738032697838,
+        "Shape_Area": 0.00001831402458756871
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.63348557499995,
+                38.36106918400003
+              ],
+              [
+                -105.63290433699996,
+                38.361030963000076
+              ],
+              [
+                -105.62892306199996,
+                38.36076691000005
+              ],
+              [
+                -105.62882450599994,
+                38.356800554000074
+              ],
+              [
+                -105.633420549,
+                38.35702771800004
+              ],
+              [
+                -105.63348557499995,
+                38.36106918400003
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 231,
+        "ID": "1121466416551083884",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105948944",
+        "LEG_CSE_NR": "COC    068907",
+        "CSE_NAME": "J BIRD MINE",
+        "CMMDTY": "URANIUM AND OTHER MIN",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "RIMROCK EXPL & DEV INC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2014-02-03T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 0 intersecting parts\naliquot\n22 sections retrieved\n146 intersected features retrieved\ntodo handle unclean township\n8 matching sections found\nformerly known as 4.2",
+        "CSE_META": "CO 23 0470N 0200W 013 A N2NWSW",
+        "RCRD_ACRS": 7.5,
+        "SF_ID": "a023d00000GZPCHAA5",
+        "Created": "2023-06-22T14:39:21Z",
+        "Modified": "2024-10-05T20:48:14Z",
+        "Shape_Length": 0.010985983007179224,
+        "Shape_Area": 0.000004146894736621349
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -109.03371740499995,
+                38.332283252000025
+              ],
+              [
+                -109.03142282199997,
+                38.33226635700004
+              ],
+              [
+                -109.03142226899996,
+                38.331365006000055
+              ],
+              [
+                -109.03371695799996,
+                38.33137964300005
+              ],
+              [
+                -109.03601164799994,
+                38.33139428100003
+              ],
+              [
+                -109.03601198999996,
+                38.33230014800006
+              ],
+              [
+                -109.03371740499995,
+                38.332283252000025
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 232,
+        "ID": "1121466416551084482",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106030094",
+        "LEG_CSE_NR": "COC    070513",
+        "CSE_NAME": "Golden_Wonder_Mine",
+        "CMMDTY": "GOLD, LODE",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "LKA INTL INC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Claimant",
+        "CSE_DISP_DT": "1997-10-27T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 0 intersecting parts\naliquot\n36 sections retrieved\n1308 intersected features retrieved\n54 matching sections found\nformerly known as 4.2",
+        "CSE_META": "CO 23 0430N 0040W 010 A SESENENE",
+        "RCRD_ACRS": 4.1,
+        "SF_ID": "a023d00000GZaDWAA1",
+        "Created": "2023-06-22T14:39:22Z",
+        "Modified": "2024-10-05T21:09:11Z",
+        "Shape_Length": 0.004093583785841452,
+        "Shape_Area": 0.0000010332070512019678
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -107.28316480799998,
+                38.00452980600005
+              ],
+              [
+                -107.28202260499995,
+                38.00453266300008
+              ],
+              [
+                -107.28201995099994,
+                38.00362819700007
+              ],
+              [
+                -107.28316228999995,
+                38.00362524500008
+              ],
+              [
+                -107.28316480799998,
+                38.00452980600005
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 233,
+        "ID": "1121466416551084885",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105915225",
+        "LEG_CSE_NR": "COC    071183",
+        "CSE_NAME": "LAST CHANCE #4",
+        "CMMDTY": "URANIUM AND OTHER MIN",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "NUVEMCO LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2010-06-17T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: aliquot\n36 sections retrieved\n614 intersected features retrieved\n26 matching sections found\nsection 12 issimple: False\nNESW,SESW,NWSW,NWNE,SENW,SWNW,,,,SESE,,,SENE,NESE,SWSE,NESE,,,NWNW,SWNE,NWSE,SWSW,NENE,NENW,,",
+        "CSE_META": "CO 23 0460N 0180W 012 A S2NW",
+        "RCRD_ACRS": 10,
+        "SF_ID": "a023d00000GZhYaAAL",
+        "Created": "2023-06-22T14:39:22Z",
+        "Modified": "2024-10-05T21:23:05Z",
+        "Shape_Length": 0.02563328207913352,
+        "Shape_Area": 0.00003329741931446313
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -108.80634225499995,
+                38.25509210300004
+              ],
+              [
+                -108.81094106199998,
+                38.25511235000005
+              ],
+              [
+                -108.81553987099994,
+                38.25513240200007
+              ],
+              [
+                -108.81553855599998,
+                38.25875645000008
+              ],
+              [
+                -108.81094191399995,
+                38.25873342400007
+              ],
+              [
+                -108.80634524499999,
+                38.25871020400007
+              ],
+              [
+                -108.80634225499995,
+                38.25509210300004
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 234,
+        "ID": "1121466416551085260",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106036402",
+        "LEG_CSE_NR": "COC    071896",
+        "CSE_NAME": "WHIRLWIND and Packrat MINEs",
+        "CMMDTY": "URANIUM, (U308 CONTENT)",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "ENERGY FUELS RESOURCES CORP",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2008-09-10T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "11: Only township found\n",
+        "CSE_META": "CO 23 0510N 0200W 036 E ALL",
+        "RCRD_ACRS": 22.6,
+        "SF_ID": "a023d00000GZcJMAA1",
+        "Created": "2023-06-22T14:39:22Z",
+        "Modified": "2025-01-07T16:04:42Z",
+        "Shape_Length": 0,
+        "Shape_Area": 0
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 235,
+        "ID": "1121466416551086038",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106131617",
+        "LEG_CSE_NR": "COC    072973",
+        "CSE_NAME": "EAGLE-GYPSUM MINE",
+        "CMMDTY": "CALCIUM, SULFATE-GYPSUM",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "AMERICAN GYPSUM CO LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2003-09-24T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: Map to entire FRSTDIVNO\n",
+        "CSE_META": "CO 06 0040S 0850W 032 A ALL",
+        "RCRD_ACRS": 830,
+        "SF_ID": "a023d00000GZjwPAAT",
+        "Created": "2023-06-22T14:39:23Z",
+        "Modified": "2024-10-05T21:27:49Z",
+        "Shape_Length": 0.06659065018340735,
+        "Shape_Area": 0.0002727347668096211
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -106.94917245299996,
+                39.65308411400008
+              ],
+              [
+                -106.95224090599999,
+                39.65308318500007
+              ],
+              [
+                -106.95402872499994,
+                39.653082649000055
+              ],
+              [
+                -106.95693558799996,
+                39.65308521900005
+              ],
+              [
+                -106.956932812,
+                39.65670975100005
+              ],
+              [
+                -106.95693003499997,
+                39.660334284000044
+              ],
+              [
+                -106.95692725999999,
+                39.66395881600005
+              ],
+              [
+                -106.95692448499994,
+                39.66758334900004
+              ],
+              [
+                -106.95222313599999,
+                39.66758342600008
+              ],
+              [
+                -106.94752181399997,
+                39.667583474000025
+              ],
+              [
+                -106.94282046499995,
+                39.667583551000064
+              ],
+              [
+                -106.93811914299994,
+                39.66758359900007
+              ],
+              [
+                -106.93811686499998,
+                39.66395967700004
+              ],
+              [
+                -106.93811458499994,
+                39.66033578400004
+              ],
+              [
+                -106.93811385999999,
+                39.65671219500007
+              ],
+              [
+                -106.93811372199997,
+                39.656128496000065
+              ],
+              [
+                -106.93814352699997,
+                39.653088636000064
+              ],
+              [
+                -106.94284487599998,
+                39.65308661500006
+              ],
+              [
+                -106.94754625199994,
+                39.65308459400006
+              ],
+              [
+                -106.94917245299996,
+                39.65308411400008
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 236,
+        "ID": "1121466416551086356",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105890529",
+        "LEG_CSE_NR": "COC    073615",
+        "CSE_NAME": "OCT MINE RECLAMATION",
+        "CMMDTY": "URANIUM, (U308 CONTENT)",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "NUVEMCO LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2008-09-05T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "11: Only township found\n",
+        "CSE_META": "CO 23 0500N 0190W 004 E ALL",
+        "RCRD_ACRS": 0.46,
+        "SF_ID": "a023d00000GZe2RAAT",
+        "Created": "2023-06-22T14:39:23Z",
+        "Modified": "2024-10-05T21:15:56Z",
+        "Shape_Length": 0,
+        "Shape_Area": 0
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 237,
+        "ID": "1121466416551086512",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106050922",
+        "LEG_CSE_NR": "COC    073930",
+        "CSE_NAME": "Field of Dreams",
+        "CMMDTY": "GOLD, PLACER",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "DESTINY MINING LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2014-08-05T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: \n36 sections retrieved\n558 intersected features retrieved",
+        "CSE_META": "CO 06 0090S 0770W 033 A SESW",
+        "RCRD_ACRS": 4.84,
+        "SF_ID": "a023d00000GZulEAAT",
+        "Created": "2023-06-22T14:39:23Z",
+        "Modified": "2024-10-05T21:47:26Z",
+        "Shape_Length": 0.01665522704815406,
+        "Shape_Area": 0.000017104402830085123
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -106.00846051299999,
+                39.21678385600006
+              ],
+              [
+                -106.00848507099994,
+                39.22045332600004
+              ],
+              [
+                -106.00383175499996,
+                39.22048228800003
+              ],
+              [
+                -106.00382134799997,
+                39.21678920200003
+              ],
+              [
+                -106.00846051299999,
+                39.21678385600006
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 238,
+        "ID": "1121466416551086513",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Mining",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106137984",
+        "LEG_CSE_NR": "COC    073931",
+        "CSE_NAME": "Hopemore",
+        "CMMDTY": "OTHER LOCATABLE MINERALS",
+        "EFF_DT": null,
+        "EXP_DT": "2028-02-19T23:59:00Z",
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "CJK MILLING COMPANY LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2015-07-29T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 0 intersecting parts\naliquot\n36 sections retrieved\n27042 intersected features retrieved\ntodo handle unclean township\n323 matching sections found\nformerly known as 4.2",
+        "CSE_META": "CO 06 0090S 0790W 020 A SESE",
+        "RCRD_ACRS": 3,
+        "SF_ID": "a023d00000GZYhfAAH",
+        "Created": "2023-06-22T14:39:23Z",
+        "Modified": "2025-02-19T23:36:32Z",
+        "Shape_Length": 0.016583055662970712,
+        "Shape_Area": 0.00001691339403449044
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -106.240517346,
+                39.24864153100003
+              ],
+              [
+                -106.23585178499997,
+                39.24866540000005
+              ],
+              [
+                -106.23591397499996,
+                39.24504021700005
+              ],
+              [
+                -106.24057859199996,
+                39.245015016000025
+              ],
+              [
+                -106.240517346,
+                39.24864153100003
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 239,
+        "ID": "1121466416551086627",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105881589",
+        "LEG_CSE_NR": "COC    074205",
+        "CSE_NAME": "MID-CONTINENT QUARRY",
+        "CMMDTY": "CALCIUM, LIMESTONE",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "RMR AGGREGATES INC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "1982-08-18T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: aliquot\n36 sections retrieved\n576 intersected features retrieved\n16 matching sections found\nsection 36 issimple: False\nNWSW,NESE,1,SESW,2,NESW,NWNW,SESE,NENW,SWSW,4,NWNE,NENE,SWSE,NWSE,3, \n36 sections retrieved\n576 intersected features retrieved, 1 i",
+        "CSE_META": "CO 06 0050S 0890W 036 A N2SE|CO 06 0050S 0890W 036 A SWSE|CO 06 0050S 0890W 036 A W2SESE",
+        "RCRD_ACRS": 15.7,
+        "SF_ID": "a023d00000GZiP5AAL",
+        "Created": "2023-06-22T14:39:23Z",
+        "Modified": "2025-01-14T20:34:56Z",
+        "Shape_Length": 0.037904741173328906,
+        "Shape_Area": 0.00005943072615619776
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -107.31968219399994,
+                39.56746203200004
+              ],
+              [
+                -107.31969654499994,
+                39.56564964000006
+              ],
+              [
+                -107.32203100399994,
+                39.56565165200004
+              ],
+              [
+                -107.32408930799994,
+                39.565653359000066
+              ],
+              [
+                -107.32669989299995,
+                39.56565550800008
+              ],
+              [
+                -107.32667916499997,
+                39.569299261000026
+              ],
+              [
+                -107.32665840699997,
+                39.57294298700003
+              ],
+              [
+                -107.32197959999996,
+                39.572913881000034
+              ],
+              [
+                -107.31730076599996,
+                39.57288460900003
+              ],
+              [
+                -107.317330385,
+                39.569266077000066
+              ],
+              [
+                -107.32200530299997,
+                39.56928276700006
+              ],
+              [
+                -107.31966784399998,
+                39.569274422000035
+              ],
+              [
+                -107.31968219399994,
+                39.56746203200004
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 240,
+        "ID": "1121466416551087032",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Mining",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105907505",
+        "LEG_CSE_NR": "COC    074762",
+        "CSE_NAME": "Gold Prospectors of Colorado",
+        "CMMDTY": "GOLD, PLACER",
+        "EFF_DT": null,
+        "EXP_DT": "2028-02-18T23:59:00Z",
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "GOLD PROSP OF CO",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2011-03-15T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "2: MIDPOINT\nATTRIBUTE BUCKET DOES NOT MATCH THE WITHIN BUCKET\nDOES NOT MATCH PM ANGLES\naliquot\n36 sections retrieved\n628 intersected features retrieved\n16 matching sections found\nsection 27 issimple: False, MIDPOINT\nATTRIBUTE BUCKET DOES NOT MATCH THE WIT",
+        "CSE_META": "CO 23 0490N 0100E 027 A SW|CO 23 0490N 0100E 028 A SE|CO 23 0490N 0100E 029 A NE",
+        "RCRD_ACRS": 1,
+        "SF_ID": "a023d00000GZeL9AAL",
+        "Created": "2023-06-22T14:39:23Z",
+        "Modified": "2025-02-19T23:41:41Z",
+        "Shape_Length": 0.08231016207608678,
+        "Shape_Area": 0.00018927722805521334
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.86581870499998,
+                38.46304454500006
+              ],
+              [
+                -105.87036656899994,
+                38.463013584000066
+              ],
+              [
+                -105.87040781699994,
+                38.46649103200008
+              ],
+              [
+                -105.87044909099995,
+                38.46996850700003
+              ],
+              [
+                -105.86588902999995,
+                38.46998316200006
+              ],
+              [
+                -105.86132894099995,
+                38.469997652000075
+              ],
+              [
+                -105.85678337899998,
+                38.470084808000024
+              ],
+              [
+                -105.85223781599996,
+                38.47017176800006
+              ],
+              [
+                -105.85221537799998,
+                38.46673515400005
+              ],
+              [
+                -105.85219293899996,
+                38.46329851100006
+              ],
+              [
+                -105.85673188799996,
+                38.46318699600005
+              ],
+              [
+                -105.86127080899996,
+                38.46307550700004
+              ],
+              [
+                -105.86581870499998,
+                38.46304454500006
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -105.88392440799998,
+                38.46990423200003
+              ],
+              [
+                -105.88843396799996,
+                38.46986916000003
+              ],
+              [
+                -105.88839226799996,
+                38.47341971700007
+              ],
+              [
+                -105.88835054199996,
+                38.476970247000054
+              ],
+              [
+                -105.883858982,
+                38.47694840300005
+              ],
+              [
+                -105.87936742199997,
+                38.47692658900007
+              ],
+              [
+                -105.87939114699998,
+                38.473432864000074
+              ],
+              [
+                -105.87941487599994,
+                38.469939139000076
+              ],
+              [
+                -105.88392440799998,
+                38.46990423200003
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 241,
+        "ID": "1121466416551087172",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106232321",
+        "LEG_CSE_NR": "COC    074961",
+        "CSE_NAME": "EAGLE MINE",
+        "CMMDTY": "GOLD, PLACER",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": null,
+        "PCT_INT_SEC": null,
+        "INT_REL_SEC": null,
+        "CSE_DISP_DT": "2011-08-30T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: \n36 sections retrieved\n585 intersected features retrieved",
+        "CSE_META": "CO 06 0100N 0920W 002 A SENE",
+        "RCRD_ACRS": 14,
+        "SF_ID": "a023d00000GZvRXAA1",
+        "Created": "2023-06-22T14:39:24Z",
+        "Modified": "2024-10-05T21:49:40Z",
+        "Shape_Length": 0.016786726152554245,
+        "Shape_Area": 0.00001728194942378346
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -107.67773059499996,
+                40.85879619100007
+              ],
+              [
+                -107.67773335599998,
+                40.85517401900006
+              ],
+              [
+                -107.68250465499995,
+                40.85517725300008
+              ],
+              [
+                -107.68250189399998,
+                40.858799205000025
+              ],
+              [
+                -107.67773059499996,
+                40.85879619100007
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 242,
+        "ID": "1121466416551087214",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106136769",
+        "LEG_CSE_NR": "COC    075092",
+        "CSE_NAME": "PRINCE ALBERT MINE",
+        "CMMDTY": "URANIUM AND OTHER MIN",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "RIMROCK EXPL & DEV INC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2013-08-09T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: Map to entire FRSTDIVNO\n, \n36 sections retrieved\n1121 intersected features retrieved",
+        "CSE_META": "CO 23 0480N 0170W 031 A ALL|CO 23 0480N 0170W 032 A SWNW",
+        "RCRD_ACRS": 8.3,
+        "SF_ID": "a023d00000GZkDEAA1",
+        "Created": "2023-06-22T14:39:24Z",
+        "Modified": "2024-10-05T21:28:25Z",
+        "Shape_Length": 0.07545002647799523,
+        "Shape_Area": 0.0002870760168308047
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -108.777621996,
+                38.363179571000046
+              ],
+              [
+                -108.782245618,
+                38.36345106700003
+              ],
+              [
+                -108.78686926799998,
+                38.36372256300007
+              ],
+              [
+                -108.79149933499997,
+                38.36399972700008
+              ],
+              [
+                -108.79607415099997,
+                38.364273473000026
+              ],
+              [
+                -108.79610500299998,
+                38.36790885200003
+              ],
+              [
+                -108.79613585399994,
+                38.371544233000066
+              ],
+              [
+                -108.79616673299995,
+                38.37517958400008
+              ],
+              [
+                -108.79619758499996,
+                38.37881496500006
+              ],
+              [
+                -108.79158507299996,
+                38.37858282900004
+              ],
+              [
+                -108.78694955999998,
+                38.37834952600008
+              ],
+              [
+                -108.78230718699996,
+                38.378114251000056
+              ],
+              [
+                -108.77880215499994,
+                38.377936642000066
+              ],
+              [
+                -108.77790401399994,
+                38.37789111600006
+              ],
+              [
+                -108.77766481299994,
+                38.37787900400008
+              ],
+              [
+                -108.777655601,
+                38.37421831900008
+              ],
+              [
+                -108.77308120099997,
+                38.373971211000026
+              ],
+              [
+                -108.77306312999997,
+                38.37031383100003
+              ],
+              [
+                -108.77764638999997,
+                38.370557663000056
+              ],
+              [
+                -108.77763420699995,
+                38.36686861600003
+              ],
+              [
+                -108.777621996,
+                38.363179571000046
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 243,
+        "ID": "1121466416551087578",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Mining",
+        "CSE_DISP": "Pending",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105877972",
+        "LEG_CSE_NR": "COC    075676",
+        "CSE_NAME": "Brown Derby-Precious Minerals Offerings",
+        "CMMDTY": "GEMSTONE, SEMIPREC OTH",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "PRECIOUS OFFERINGS MIN EX INC",
+        "PCT_INT_SEC": 34,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2017-09-22T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "1: SIMPLE\nTYPICAL QUARTER SECTION WITH 4 STANDARD LEGALS ATTRIBUTED\nDOES NOT MATCH PM ANGLES\naliquot\n36 sections retrieved\n576 intersected features retrieved\n16 matching sections found\n4 alias QQs added\nsection 3 issimple: False",
+        "CSE_META": "CO 23 0490N 0030E 003 A NE",
+        "RCRD_ACRS": 5,
+        "SF_ID": "a023d00000GZg3UAAT",
+        "Created": "2023-06-22T14:39:24Z",
+        "Modified": "2025-03-31T18:13:02Z",
+        "Shape_Length": 0.03291790228030606,
+        "Shape_Area": 0.0000665921435629455
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -106.63003729699994,
+                38.54089282500007
+              ],
+              [
+                -106.63023705499995,
+                38.54449189300004
+              ],
+              [
+                -106.63001335599995,
+                38.54449209000006
+              ],
+              [
+                -106.62560686899997,
+                38.54449764100008
+              ],
+              [
+                -106.62540505699997,
+                38.54449783800004
+              ],
+              [
+                -106.62097670999998,
+                38.54450341800003
+              ],
+              [
+                -106.62079217499996,
+                38.54088040600004
+              ],
+              [
+                -106.62060860999998,
+                38.53727550600007
+              ],
+              [
+                -106.62522360299994,
+                38.537294228000064
+              ],
+              [
+                -106.62983862199997,
+                38.53731275700005
+              ],
+              [
+                -106.63003729699994,
+                38.54089282500007
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 244,
+        "ID": "1121466416551087712",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Mining",
+        "CSE_DISP": "Pending",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106172437",
+        "LEG_CSE_NR": "COC    076062",
+        "CSE_NAME": "Mount Emmons Mining Company",
+        "CMMDTY": "MOLYBDENUM",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "US ENERGY CORP",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2025-03-28T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "2: SIMPLE\nTYPICAL QUARTER SECTION WITH 4 STANDARD LEGALS ATTRIBUTED\nDOES NOT MATCH PM ANGLES\nDOES NOT MATCH PM ANGLES\naliquot\n36 sections retrieved\n762 intersected features retrieved\n16 matching sections found\nsection 20 issimple: False\nsection 20 issimpl",
+        "CSE_META": "CO 06 0130S 0860W 020 A W2",
+        "RCRD_ACRS": 20,
+        "SF_ID": "a023d00000GZyk7AAD",
+        "Created": "2023-06-22T14:39:24Z",
+        "Modified": "2025-03-28T16:02:10Z",
+        "Shape_Length": 0.04843909453046199,
+        "Shape_Area": 0.00014107463507094414
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -107.03846016999995,
+                38.90268658300005
+              ],
+              [
+                -107.03847551699994,
+                38.90627611600007
+              ],
+              [
+                -107.03849083299997,
+                38.90986564900004
+              ],
+              [
+                -107.03850223699999,
+                38.913457126000026
+              ],
+              [
+                -107.03851363799998,
+                38.91704860400006
+              ],
+              [
+                -107.03352514399995,
+                38.917025773000034
+              ],
+              [
+                -107.02853665099997,
+                38.91700341400008
+              ],
+              [
+                -107.02863869399994,
+                38.91334296300005
+              ],
+              [
+                -107.02874070899998,
+                38.909682513000064
+              ],
+              [
+                -107.02884261399998,
+                38.90605548000008
+              ],
+              [
+                -107.02894448999996,
+                38.902428418000056
+              ],
+              [
+                -107.03370234299996,
+                38.90255750000006
+              ],
+              [
+                -107.03846016999995,
+                38.90268658300005
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 245,
+        "ID": "1121466416551087805",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Mining",
+        "CSE_DISP": "Pending",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105905308",
+        "LEG_CSE_NR": "COC    076195",
+        "CSE_NAME": null,
+        "CMMDTY": "All Locatable Minerals",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "GUNNISON FIELD OFFICE",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Admin Mgt Entity",
+        "CSE_DISP_DT": "2025-03-28T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 0 intersecting parts\naliquot\n36 sections retrieved\n747 intersected features retrieved\n38 matching sections found\nformerly known as 4.2, 0 intersecting parts\naliquot\n36 sections retrieved\n747 intersected features retrieved\n38 matching sections found\nf",
+        "CSE_META": "CO 23 0470N 0010W 008 A NWNE|CO 23 0470N 0010W 008 A SWNE|CO 23 0470N 0010W 008 A NENW|CO 23 0470N 0010W 008 A NWNW|CO 23 0470N 0010W 008 A SWNW",
+        "RCRD_ACRS": 3,
+        "SF_ID": "a023d00000GZoixAAD",
+        "Created": "2023-06-22T14:39:24Z",
+        "Modified": "2025-03-28T17:08:52Z",
+        "Shape_Length": 0.04342464121990071,
+        "Shape_Area": 0.00006534024334993216
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -106.988430081,
+                38.34932220500008
+              ],
+              [
+                -106.98815138999998,
+                38.345519645000024
+              ],
+              [
+                -106.99171250199998,
+                38.345595254000045
+              ],
+              [
+                -106.99192744199996,
+                38.34935952500007
+              ],
+              [
+                -106.99542480199995,
+                38.34939684400007
+              ],
+              [
+                -106.99527361299994,
+                38.345670863000066
+              ],
+              [
+                -106.99883472399995,
+                38.34574647200003
+              ],
+              [
+                -106.99892216199999,
+                38.34943416300007
+              ],
+              [
+                -106.99900960099995,
+                38.35312185300006
+              ],
+              [
+                -106.99557599199994,
+                38.353122824000025
+              ],
+              [
+                -106.99214238199994,
+                38.353123796000034
+              ],
+              [
+                -106.98870877099995,
+                38.353124767000054
+              ],
+              [
+                -106.988430081,
+                38.34932220500008
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 246,
+        "ID": "1121466416551087881",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Mining",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106271468",
+        "LEG_CSE_NR": "COC    076361",
+        "CSE_NAME": "LIBERTY MINE",
+        "CMMDTY": "URANIUM, (U308 CONTENT)",
+        "EFF_DT": "2016-04-26T23:59:00Z",
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "LIBERTY MINING LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2016-04-26T23:59:00Z",
+        "SRC": "LLD/CLS",
+        "QLTY": "4.1; 0 intersecting parts, aliquot",
+        "CSE_META": "CO 23 0500N 0190W 010 A NWSE",
+        "RCRD_ACRS": 463,
+        "SF_ID": "a023d00000Ga0V0AAJ",
+        "Created": "2023-06-22T14:39:24Z",
+        "Modified": "2025-04-01T17:59:59Z",
+        "Shape_Length": 0.01449755480658717,
+        "Shape_Area": 0.000013136193460623604
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -108.95966112099995,
+                38.613494796000055
+              ],
+              [
+                -108.95603703699999,
+                38.61354181100006
+              ],
+              [
+                -108.955990021,
+                38.60991772700004
+              ],
+              [
+                -108.95961410499996,
+                38.60987071300008
+              ],
+              [
+                -108.95966112099995,
+                38.613494796000055
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 247,
+        "ID": "1121466416551088110",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Pending",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105998803",
+        "LEG_CSE_NR": "COC    076727",
+        "CSE_NAME": "Majestic Claims",
+        "CMMDTY": "GOLD, PLACER",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": null,
+        "PCT_INT_SEC": null,
+        "INT_REL_SEC": null,
+        "CSE_DISP_DT": "2014-09-03T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "1: MIDPOINT\nTYPICAL QUARTER SECTION WITH 4 STANDARD LEGALS ATTRIBUTED\nDOES NOT MATCH PM ANGLES\naliquot\n36 sections retrieved\n576 intersected features retrieved\n16 matching sections found\nsection 13 issimple: False, MIDPOINT\nTYPICAL QUARTER SECTION WITH 4 ",
+        "CSE_META": "CO 06 0150S 0780W 013 A NE|CO 06 0150S 0780W 013 A SE",
+        "RCRD_ACRS": 3,
+        "SF_ID": "a023d00000GZlfkAAD",
+        "Created": "2023-06-22T14:39:24Z",
+        "Modified": "2024-10-05T21:31:57Z",
+        "Shape_Length": 0.04752601797632447,
+        "Shape_Area": 0.00013489541481184468
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -106.05783698499994,
+                38.73729838600008
+              ],
+              [
+                -106.06256738999997,
+                38.73739881400007
+              ],
+              [
+                -106.06252641099996,
+                38.74097599000004
+              ],
+              [
+                -106.062485429,
+                38.74455316500007
+              ],
+              [
+                -106.06244342199994,
+                38.748178256000074
+              ],
+              [
+                -106.06240142499996,
+                38.75180331900003
+              ],
+              [
+                -106.05775402299997,
+                38.751680419000024
+              ],
+              [
+                -106.05310662099998,
+                38.75155751800003
+              ],
+              [
+                -106.05310650499996,
+                38.74796306600007
+              ],
+              [
+                -106.05310640099998,
+                38.74439391800007
+              ],
+              [
+                -106.05310637399998,
+                38.744368586000064
+              ],
+              [
+                -106.05310646299995,
+                38.74078329900004
+              ],
+              [
+                -106.05310655199997,
+                38.737197984000034
+              ],
+              [
+                -106.05783698499994,
+                38.73729838600008
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 248,
+        "ID": "1121466416551088358",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106136733",
+        "LEG_CSE_NR": "COC    077242",
+        "CSE_NAME": "KING-MANASSA TURQUOISE",
+        "CMMDTY": "GEMSTONE, SEMIPREC OTH",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Held by Actual Production",
+        "SALE_DT": null,
+        "CUST_NM_SEC": null,
+        "PCT_INT_SEC": null,
+        "INT_REL_SEC": null,
+        "CSE_DISP_DT": "2015-09-03T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: aliquot\n31 sections retrieved\n449 intersected features retrieved\n16 matching sections found\nsection 22 issimple: False\nSWSW,NENE,NWNW,NWNE,SWNE,SWSE,SENE,SESE,SWNW,NENW,NESW,SESW,NESE,NWSW,SENW,NWSE, aliquot\n31 sections retrieved\n449 intersected featur",
+        "CSE_META": "CO 23 0340N 0110E 022 A S2NW|CO 23 0340N 0110E 022 A N2SW",
+        "RCRD_ACRS": 1,
+        "SF_ID": "a023d00000GZjRAAA1",
+        "Created": "2023-06-22T14:39:24Z",
+        "Modified": "2024-10-05T21:27:00Z",
+        "Shape_Length": 0.03261054627723132,
+        "Shape_Area": 0.00006562079967963584
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.765761479,
+                37.17083004600005
+              ],
+              [
+                -105.76573680599995,
+                37.17445899100005
+              ],
+              [
+                -105.76571210499998,
+                37.17808793900008
+              ],
+              [
+                -105.76117760899996,
+                37.17810576800008
+              ],
+              [
+                -105.75664308599994,
+                37.178123407000044
+              ],
+              [
+                -105.75666848199995,
+                37.174515960000065
+              ],
+              [
+                -105.75669384999998,
+                37.170908154000074
+              ],
+              [
+                -105.76122767899994,
+                37.17086918200005
+              ],
+              [
+                -105.765761479,
+                37.17083004600005
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 249,
+        "ID": "1121466416551088744",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105893768",
+        "LEG_CSE_NR": "COC    077853",
+        "CSE_NAME": null,
+        "CMMDTY": "All Locatable Minerals",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "KINROSS GOLD USA INC",
+        "PCT_INT_SEC": 50,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2016-12-19T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 0 intersecting parts\naliquot\n36 sections retrieved\n1308 intersected features retrieved\n41 matching sections found\nformerly known as 4.2",
+        "CSE_META": "CO 23 0430N 0040W 011 A NWNW",
+        "RCRD_ACRS": 0.24,
+        "SF_ID": "a023d00000Ga1uzAAB",
+        "Created": "2023-06-22T14:39:25Z",
+        "Modified": "2024-10-05T21:58:59Z",
+        "Shape_Length": 0.016401867852743175,
+        "Shape_Area": 0.00001658033484048926
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -107.282030567,
+                38.007246061000046
+              ],
+              [
+                -107.27744607199998,
+                38.00725455200006
+              ],
+              [
+                -107.27743711499994,
+                38.00363792400003
+              ],
+              [
+                -107.28201995099994,
+                38.00362819700007
+              ],
+              [
+                -107.282030567,
+                38.007246061000046
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 250,
+        "ID": "1121466416551088989",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106277024",
+        "LEG_CSE_NR": "COC    078456",
+        "CSE_NAME": "Blue Barite",
+        "CMMDTY": "BARIUM, BARITE",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": null,
+        "PCT_INT_SEC": null,
+        "INT_REL_SEC": null,
+        "CSE_DISP_DT": "2019-05-29T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "1: SIMPLE\nFULLY ATTRIBUTED QUARTER SECTION ALL BUCKETS ARE EQUAL\nDOES NOT MATCH PM ANGLES\naliquot\n36 sections retrieved\n586 intersected features retrieved\n16 matching sections found\n4 alias QQs added\nsection 18 issimple: False",
+        "CSE_META": "CO 06 0120S 0750W 018 A SE",
+        "RCRD_ACRS": 5,
+        "SF_ID": "a023d00000GZm1JAAT",
+        "Created": "2023-06-22T14:39:25Z",
+        "Modified": "2024-10-05T21:32:28Z",
+        "Shape_Length": 0.03319306495853498,
+        "Shape_Area": 0.00006758806454410706
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.81743018199995,
+                38.99885388400003
+              ],
+              [
+                -105.82210646699997,
+                38.998817864000046
+              ],
+              [
+                -105.82180951199996,
+                39.00244992200004
+              ],
+              [
+                -105.82151253099994,
+                39.00608197100007
+              ],
+              [
+                -105.81687352699998,
+                39.00611357300005
+              ],
+              [
+                -105.81223451999995,
+                39.00614498200008
+              ],
+              [
+                -105.81249422299999,
+                39.00251746200007
+              ],
+              [
+                -105.81275389899997,
+                38.99888990200003
+              ],
+              [
+                -105.81743018199995,
+                38.99885388400003
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 251,
+        "ID": "1121466416551088990",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Mining",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106277025",
+        "LEG_CSE_NR": "COC    078457",
+        "CSE_NAME": "Head Full of Hope",
+        "CMMDTY": "GOLD, PLACER",
+        "EFF_DT": null,
+        "EXP_DT": "2028-02-14T23:59:00Z",
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": null,
+        "PCT_INT_SEC": null,
+        "INT_REL_SEC": null,
+        "CSE_DISP_DT": "2018-08-08T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: 1\n36 sections retrieved\n2542 intersected features retrieved\n41 matching sections found",
+        "CSE_META": "CO 06 0080S 0790W 033 L 15",
+        "RCRD_ACRS": 1,
+        "SF_ID": "a023d00000GZm1KAAT",
+        "Created": "2023-06-22T14:39:25Z",
+        "Modified": "2025-02-19T23:41:06Z",
+        "Shape_Length": 0.017461186787755028,
+        "Shape_Area": 0.000018084126889308128
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -106.22428237999998,
+                39.314562684000066
+              ],
+              [
+                -106.22362803899995,
+                39.31804413700007
+              ],
+              [
+                -106.21827404399994,
+                39.317630174000044
+              ],
+              [
+                -106.219258616,
+                39.314255219000074
+              ],
+              [
+                -106.22428237999998,
+                39.314562684000066
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 252,
+        "ID": "1121466416551089357",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106237442",
+        "LEG_CSE_NR": "COC    079090",
+        "CSE_NAME": "HUMMINGBIRD MINE; Miners Mall LLC",
+        "CMMDTY": "GEMSTONE, SEMIPREC OTH",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "MINERS MALL LLC DENNIS SCHNEIDER",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Claimant",
+        "CSE_DISP_DT": "2018-08-30T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 1 intersecting parts\naliquot\n36 sections retrieved\n629 intersected features retrieved\n38 matching sections found\nunioning cleaned section features",
+        "CSE_META": "CO 06 0140S 1000W 011 A NESWSENW",
+        "RCRD_ACRS": 0.31,
+        "SF_ID": "a023d00000Ga53aAAB",
+        "Created": "2023-06-22T14:39:25Z",
+        "Modified": "2024-11-15T16:09:07Z",
+        "Shape_Length": 0.004144046630829644,
+        "Shape_Area": 0.0000010578574885568522
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -108.54054219099999,
+                38.85294847900008
+              ],
+              [
+                -108.53938192699997,
+                38.85295024700008
+              ],
+              [
+                -108.53938160999996,
+                38.852038830000026
+              ],
+              [
+                -108.54054205399996,
+                38.852036561000034
+              ],
+              [
+                -108.54054219099999,
+                38.85294847900008
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 253,
+        "ID": "1121466416551089942",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Pending",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO105848664",
+        "LEG_CSE_NR": "COC    080457",
+        "CSE_NAME": "Desert Gold Plan",
+        "CMMDTY": "GOLD, PLACER",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "CPD EXPLORATION LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2021-02-08T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: \n36 sections retrieved\n556 intersected features retrieved, \n36 sections retrieved\n556 intersected features retrieved, \n36 sections retrieved\n556 intersected features retrieved",
+        "CSE_META": "CO 06 0090S 0750W 017 A NWSE|CO 06 0090S 0750W 017 A NESW|CO 06 0090S 0750W 017 A SENW",
+        "RCRD_ACRS": 100,
+        "SF_ID": "a023d00000Ga5ONAAZ",
+        "Created": "2023-06-22T14:39:26Z",
+        "Modified": "2024-10-05T22:04:41Z",
+        "Shape_Length": 0.03265780773746001,
+        "Shape_Area": 0.000049180500209990995
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.80378333199997,
+                39.26410589100004
+              ],
+              [
+                -105.80374248299995,
+                39.26772405500003
+              ],
+              [
+                -105.80376530099994,
+                39.271438276000026
+              ],
+              [
+                -105.79928403399998,
+                39.27152944900007
+              ],
+              [
+                -105.79930427399995,
+                39.26781772800007
+              ],
+              [
+                -105.794801926,
+                39.26791259700008
+              ],
+              [
+                -105.79483296999996,
+                39.264236235000055
+              ],
+              [
+                -105.79932417899994,
+                39.264170731000036
+              ],
+              [
+                -105.80378333199997,
+                39.26410589100004
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 255,
+        "ID": "1121466416551090305",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN MINING",
+        "CSE_DISP": "Pending",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106277181",
+        "LEG_CSE_NR": "COC    080906",
+        "CSE_NAME": null,
+        "CMMDTY": "LIMESTONE",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "RMR AGGREGATES INC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": null,
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 1 intersecting parts\naliquot\n41 sections retrieved\n72 intersected features retrieved\ntodo handle unclean township\n16 matching sections found\n4 alias QQs added\nnew logic at full10\nuncleaned section features returned, 1\n36 sections retrieved\n576 inters",
+        "CSE_META": "CO 06 0050S 0880W 031 A NWSW|CO 06 0050S 0890W 025 L 3|CO 06 0050S 0890W 025 L 4|CO 06 0050S 0890W 036 A SENE|CO 06 0060S 0890W 003 L 2|CO 06 0060S 0890W 004 L 1|CO 06 0060S 0890W 004 L 2",
+        "RCRD_ACRS": 320,
+        "SF_ID": "a023d00000Ga5m0AAB",
+        "Created": "2023-06-22T14:39:26Z",
+        "Modified": "2024-10-05T22:05:41Z",
+        "Shape_Length": 0.09133104868597068,
+        "Shape_Area": 0.00010437999981099724
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -107.32424704099998,
+                39.56266832800003
+              ],
+              [
+                -107.32882373599995,
+                39.562671572000056
+              ],
+              [
+                -107.32871958599998,
+                39.565655383000035
+              ],
+              [
+                -107.32669989299995,
+                39.56565550800008
+              ],
+              [
+                -107.32408930799994,
+                39.565653359000066
+              ],
+              [
+                -107.32203100399994,
+                39.56565165200004
+              ],
+              [
+                -107.31945900399995,
+                39.565649559000065
+              ],
+              [
+                -107.317362087,
+                39.56564762900007
+              ],
+              [
+                -107.31520547599996,
+                39.56564859000008
+              ],
+              [
+                -107.31536434799995,
+                39.56256652900004
+              ],
+              [
+                -107.31967026499996,
+                39.56266558300007
+              ],
+              [
+                -107.32424704099998,
+                39.56266832800003
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -107.31726055699994,
+                39.58012892100004
+              ],
+              [
+                -107.32193903099994,
+                39.58012880500007
+              ],
+              [
+                -107.326617479,
+                39.58012871600005
+              ],
+              [
+                -107.32661402399998,
+                39.58335866400006
+              ],
+              [
+                -107.32193132799995,
+                39.583353197000065
+              ],
+              [
+                -107.31724871399996,
+                39.583347563000075
+              ],
+              [
+                -107.31726055699994,
+                39.58012892100004
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -107.31730076599996,
+                39.57288460900003
+              ],
+              [
+                -107.321979737,
+                39.57288631200004
+              ],
+              [
+                -107.32195937799997,
+                39.57650756600003
+              ],
+              [
+                -107.31728066199997,
+                39.57650676500003
+              ],
+              [
+                -107.31730076599996,
+                39.57288460900003
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -107.317330385,
+                39.569266077000066
+              ],
+              [
+                -107.31730076599996,
+                39.57288460900003
+              ],
+              [
+                -107.31267779299998,
+                39.57289394700007
+              ],
+              [
+                -107.31268135699997,
+                39.569272054000066
+              ],
+              [
+                -107.317330385,
+                39.569266077000066
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 876,
+        "ID": "1121466416551075607",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Ancillary",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380912",
+        "CSE_NR": "COCO106244988",
+        "LEG_CSE_NR": "COC    051792",
+        "CSE_NAME": "GOLD HILL MILL",
+        "CMMDTY": "GOLD, LODE",
+        "EFF_DT": "2025-03-18T23:59:00Z",
+        "EXP_DT": "2028-03-18T23:59:00Z",
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "COLORADO MILLING COMPANY LLC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "1985-07-09T23:59:00Z",
+        "SRC": "LLD/CLS",
+        "QLTY": "4.1; 0 intersecting parts, aliquot",
+        "CSE_META": "CO 06 0010N 0720W 012 A NWSE",
+        "RCRD_ACRS": 9.83,
+        "SF_ID": "a023d00000GZ80iAAD",
+        "Created": "2023-06-22T14:39:14Z",
+        "Modified": "2025-04-16T22:26:15Z",
+        "Shape_Length": 0.01639761514718698,
+        "Shape_Area": 0.000016503881944939623
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.40183570699998,
+                40.064236910000034
+              ],
+              [
+                -105.39719038299995,
+                40.064206117000026
+              ],
+              [
+                -105.39718793699996,
+                40.060660821000056
+              ],
+              [
+                -105.40183849699997,
+                40.060680621000074
+              ],
+              [
+                -105.40183570699998,
+                40.064236910000034
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 904,
+        "ID": "1121466416551086305",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "SURFACE MANAGEMENT PLAN-EXPLORATION",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380911",
+        "CSE_NR": "COCO105889499",
+        "LEG_CSE_NR": "COC    073548",
+        "CSE_NAME": "AG 2008 EXPLORATION",
+        "CMMDTY": "CALCIUM, SULFATE-GYPSUM",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "AMERICAN GYPSUM CO LLC",
+        "PCT_INT_SEC": 0,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2009-06-03T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "1: Map to entire FRSTDIVNO\n, MIDPOINT\nTYPICAL QUARTER SECTION WITH 4 STANDARD LEGALS ATTRIBUTED\naliquot\n36 sections retrieved\n577 intersected features retrieved\n16 matching sections found\nsection 28 issimple: False\nsection 28 issimple: False\nsection 28 is",
+        "CSE_META": "CO 06 0040S 0850W 027 A ALL|CO 06 0040S 0850W 028 A E2|CO 06 0040S 0850W 033 A NENE|CO 06 0040S 0850W 034 A N2",
+        "RCRD_ACRS": 380,
+        "SF_ID": "a023d00000GZaSAAA1",
+        "Created": "2023-06-22T14:39:23Z",
+        "Modified": "2024-10-05T21:09:31Z",
+        "Shape_Length": 0.09974049553965124,
+        "Shape_Area": 0.0005602981282274695
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -106.90531392499997,
+                39.66031781800007
+              ],
+              [
+                -106.91000491199998,
+                39.660321381000074
+              ],
+              [
+                -106.91469581599995,
+                39.66032474900004
+              ],
+              [
+                -106.91938669199999,
+                39.66032795000007
+              ],
+              [
+                -106.91938172199997,
+                39.66394620600005
+              ],
+              [
+                -106.92406765299995,
+                39.663949768000066
+              ],
+              [
+                -106.92406237699998,
+                39.66756924500004
+              ],
+              [
+                -106.92874794699998,
+                39.667574030000026
+              ],
+              [
+                -106.92874397699995,
+                39.67119609100007
+              ],
+              [
+                -106.92874000599994,
+                39.67481815000008
+              ],
+              [
+                -106.92873600799999,
+                39.67846148900003
+              ],
+              [
+                -106.92873200899999,
+                39.682104827000046
+              ],
+              [
+                -106.92404952099997,
+                39.68207118200007
+              ],
+              [
+                -106.91936692199994,
+                39.68203753500006
+              ],
+              [
+                -106.91467793399994,
+                39.68203550100003
+              ],
+              [
+                -106.90998894599994,
+                39.68203349400005
+              ],
+              [
+                -106.905299959,
+                39.682031487000074
+              ],
+              [
+                -106.90061096999995,
+                39.68202945200005
+              ],
+              [
+                -106.90060832999995,
+                39.678410503000066
+              ],
+              [
+                -106.90060566299996,
+                39.674791553000034
+              ],
+              [
+                -106.90060302199998,
+                39.67117260400005
+              ],
+              [
+                -106.90060035599998,
+                39.66755365500006
+              ],
+              [
+                -106.90061166099997,
+                39.66393387200003
+              ],
+              [
+                -106.90062293699998,
+                39.66031408900005
+              ],
+              [
+                -106.90531392499997,
+                39.66031781800007
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 905,
+        "ID": "1121466416551087335",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Exploration",
+        "CSE_DISP": "Authorized",
+        "CSE_TYPE_NR": "380911",
+        "CSE_NR": "COCO106175834",
+        "LEG_CSE_NR": "COC    075265",
+        "CSE_NAME": "EL RANCHO BONDO",
+        "CMMDTY": "GOLD, PLACER",
+        "EFF_DT": null,
+        "EXP_DT": "2028-02-21T23:59:00Z",
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": null,
+        "PCT_INT_SEC": null,
+        "INT_REL_SEC": null,
+        "CSE_DISP_DT": "2012-06-28T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "0: \n36 sections retrieved\n576 intersected features retrieved, \n36 sections retrieved\n576 intersected features retrieved",
+        "CSE_META": "CO 06 0180S 0710W 018 A NWSE|CO 06 0180S 0710W 018 A SWNE",
+        "RCRD_ACRS": 1,
+        "SF_ID": "a023d00000GZz6QAAT",
+        "Created": "2023-06-22T14:39:24Z",
+        "Modified": "2025-02-20T23:07:26Z",
+        "Shape_Length": 0.023779418070368506,
+        "Shape_Area": 0.00003376854306015719
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -105.36793395899997,
+                38.477384838000035
+              ],
+              [
+                -105.37266101299997,
+                38.47730254900006
+              ],
+              [
+                -105.37281973499995,
+                38.480891722000024
+              ],
+              [
+                -105.37297959699998,
+                38.48448486700005
+              ],
+              [
+                -105.36831132199995,
+                38.48456818200003
+              ],
+              [
+                -105.36812287699996,
+                38.48097534400006
+              ],
+              [
+                -105.36793395899997,
+                38.477384838000035
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 906,
+        "ID": "1121466416551089311",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Exploration",
+        "CSE_DISP": "Pending",
+        "CSE_TYPE_NR": "380911",
+        "CSE_NR": "COCO106237373",
+        "LEG_CSE_NR": "COC    079033",
+        "CSE_NAME": "LKA_Drilling_POO_5-14-2018",
+        "CMMDTY": "METALS, PRECIOUS",
+        "EFF_DT": "2019-01-01T23:59:00Z",
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": "LKA INTL INC",
+        "PCT_INT_SEC": 100,
+        "INT_REL_SEC": "Operator",
+        "CSE_DISP_DT": "2019-01-01T23:59:00Z",
+        "SRC": "MIGRATE",
+        "QLTY": "4.1: 0 intersecting parts\naliquot\n36 sections retrieved\n1308 intersected features retrieved\n41 matching sections found\nformerly known as 4.2",
+        "CSE_META": "CO 23 0430N 0040W 011 A NWNW",
+        "RCRD_ACRS": 0.25,
+        "SF_ID": "a023d00000Ga4CbAAJ",
+        "Created": "2023-06-22T14:39:25Z",
+        "Modified": "2025-04-01T20:39:28Z",
+        "Shape_Length": 0.016401867852743175,
+        "Shape_Area": 0.00001658033484048926
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -107.282030567,
+                38.007246061000046
+              ],
+              [
+                -107.27744607199998,
+                38.00725455200006
+              ],
+              [
+                -107.27743711499994,
+                38.00363792400003
+              ],
+              [
+                -107.28201995099994,
+                38.00362819700007
+              ],
+              [
+                -107.282030567,
+                38.007246061000046
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1799,
+        "ID": "1356379625541959680",
+        "ADMIN_STATE": "CO",
+        "GEO_STATE": "CO",
+        "BLM_PROD": "Surface Management Plan - Mining",
+        "CSE_DISP": "Pending",
+        "CSE_TYPE_NR": "380910",
+        "CSE_NR": "COCO106725917",
+        "LEG_CSE_NR": "",
+        "CSE_NAME": "Joker Plan",
+        "CMMDTY": "GOLD, PLACER",
+        "EFF_DT": null,
+        "EXP_DT": null,
+        "PRDCNG": "Non-Producing",
+        "SALE_DT": null,
+        "CUST_NM_SEC": null,
+        "PCT_INT_SEC": null,
+        "INT_REL_SEC": null,
+        "CSE_DISP_DT": null,
+        "SRC": null,
+        "QLTY": null,
+        "CSE_META": null,
+        "RCRD_ACRS": 0,
+        "SF_ID": "a02SJ000007dgBRYAY",
+        "Created": "2025-03-31T00:00:00Z",
+        "Modified": "2025-03-31T21:42:40Z",
+        "Shape_Length": 0,
+        "Shape_Area": 0
+      },
+      "geometry": null
+    }
+  ]
+}
