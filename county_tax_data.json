@@ -1,0 +1,450 @@
+[
+  {
+    "County": "Pitkin County",
+    "Median Home Value": 912300,
+    "Median Tax": 4030,
+    "Effective Rate": 0.0044,
+    "Group": "High"
+  },
+  {
+    "County": "Broomfield County",
+    "Median Home Value": 581600,
+    "Median Tax": 3602,
+    "Effective Rate": 0.0062,
+    "Group": "High"
+  },
+  {
+    "County": "Boulder County",
+    "Median Home Value": 671100,
+    "Median Tax": 3559,
+    "Effective Rate": 0.0053,
+    "Group": "High"
+  },
+  {
+    "County": "Douglas County",
+    "Median Home Value": 635100,
+    "Median Tax": 3490,
+    "Effective Rate": 0.0055,
+    "Group": "High"
+  },
+  {
+    "County": "Eagle County",
+    "Median Home Value": 728400,
+    "Median Tax": 2908,
+    "Effective Rate": 0.004,
+    "Group": "High"
+  },
+  {
+    "County": "Elbert County",
+    "Median Home Value": 623300,
+    "Median Tax": 2769,
+    "Effective Rate": 0.0044,
+    "Group": "High"
+  },
+  {
+    "County": "Jefferson County",
+    "Median Home Value": 556800,
+    "Median Tax": 2708,
+    "Effective Rate": 0.0049,
+    "Group": "High"
+  },
+  {
+    "County": "Arapahoe County",
+    "Median Home Value": 480500,
+    "Median Tax": 2623,
+    "Effective Rate": 0.0055,
+    "Group": "High"
+  },
+  {
+    "County": "Adams County",
+    "Median Home Value": 425000,
+    "Median Tax": 2581,
+    "Effective Rate": 0.00609999999999999,
+    "Group": "High"
+  },
+  {
+    "County": "Larimer County",
+    "Median Home Value": 488300,
+    "Median Tax": 2527,
+    "Effective Rate": 0.0052,
+    "Group": "High"
+  },
+  {
+    "County": "Denver County",
+    "Median Home Value": 540400,
+    "Median Tax": 2447,
+    "Effective Rate": 0.0045,
+    "Group": "High"
+  },
+  {
+    "County": "Summit County",
+    "Median Home Value": 760000,
+    "Median Tax": 2395,
+    "Effective Rate": 0.0032,
+    "Group": "High"
+  },
+  {
+    "County": "Routt County",
+    "Median Home Value": 691800,
+    "Median Tax": 2292,
+    "Effective Rate": 0.0033,
+    "Group": "High"
+  },
+  {
+    "County": "Weld County",
+    "Median Home Value": 412200,
+    "Median Tax": 1995,
+    "Effective Rate": 0.0048,
+    "Group": "High"
+  },
+  {
+    "County": "Garfield County",
+    "Median Home Value": 449300,
+    "Median Tax": 1961,
+    "Effective Rate": 0.0044,
+    "Group": "High"
+  },
+  {
+    "County": "Clear Creek County",
+    "Median Home Value": 506900,
+    "Median Tax": 1952,
+    "Effective Rate": 0.0039,
+    "Group": "High"
+  },
+  {
+    "County": "Gunnison County",
+    "Median Home Value": 530300,
+    "Median Tax": 1639,
+    "Effective Rate": 0.0031,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "El Paso County",
+    "Median Home Value": 390500,
+    "Median Tax": 1629,
+    "Effective Rate": 0.0042,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Grand County",
+    "Median Home Value": 461200,
+    "Median Tax": 1623,
+    "Effective Rate": 0.00349999999999999,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Ouray County",
+    "Median Home Value": 596400,
+    "Median Tax": 1586,
+    "Effective Rate": 0.0027,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Chaffee County",
+    "Median Home Value": 514900,
+    "Median Tax": 1580,
+    "Effective Rate": 0.0031,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Park County",
+    "Median Home Value": 458600,
+    "Median Tax": 1558,
+    "Effective Rate": 0.0034,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Lake County",
+    "Median Home Value": 331000,
+    "Median Tax": 1550,
+    "Effective Rate": 0.00469999999999999,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Teller County",
+    "Median Home Value": 405500,
+    "Median Tax": 1467,
+    "Effective Rate": 0.0036,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Archuleta County",
+    "Median Home Value": 432400,
+    "Median Tax": 1454,
+    "Effective Rate": 0.0034,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Mineral County",
+    "Median Home Value": 379000,
+    "Median Tax": 1443,
+    "Effective Rate": 0.0038,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Morgan County",
+    "Median Home Value": 277400,
+    "Median Tax": 1425,
+    "Effective Rate": 0.0051,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "San Miguel County",
+    "Median Home Value": 561400,
+    "Median Tax": 1410,
+    "Effective Rate": 0.0025,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "La Plata County",
+    "Median Home Value": 497800,
+    "Median Tax": 1362,
+    "Effective Rate": 0.0027,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Pueblo County",
+    "Median Home Value": 238400,
+    "Median Tax": 1284,
+    "Effective Rate": 0.0054,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Hinsdale County",
+    "Median Home Value": 369200,
+    "Median Tax": 1268,
+    "Effective Rate": 0.0034,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Mesa County",
+    "Median Home Value": 312600,
+    "Median Tax": 1262,
+    "Effective Rate": 0.004,
+    "Group": "Medium-High"
+  },
+  {
+    "County": "Phillips County",
+    "Median Home Value": 258200,
+    "Median Tax": 1259,
+    "Effective Rate": 0.0049,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Gilpin County",
+    "Median Home Value": 465300,
+    "Median Tax": 1238,
+    "Effective Rate": 0.0027,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Custer County",
+    "Median Home Value": 327100,
+    "Median Tax": 1196,
+    "Effective Rate": 0.0037,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Montrose County",
+    "Median Home Value": 314100,
+    "Median Tax": 1189,
+    "Effective Rate": 0.0038,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Moffat County",
+    "Median Home Value": 247500,
+    "Median Tax": 1069,
+    "Effective Rate": 0.0043,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Logan County",
+    "Median Home Value": 203100,
+    "Median Tax": 989,
+    "Effective Rate": 0.0049,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Fremont County",
+    "Median Home Value": 264300,
+    "Median Tax": 984,
+    "Effective Rate": 0.0037,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Kit Carson County",
+    "Median Home Value": 182700,
+    "Median Tax": 978,
+    "Effective Rate": 0.0054,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Yuma County",
+    "Median Home Value": 201500,
+    "Median Tax": 956,
+    "Effective Rate": 0.00469999999999999,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Alamosa County",
+    "Median Home Value": 198500,
+    "Median Tax": 944,
+    "Effective Rate": 0.0048,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Montezuma County",
+    "Median Home Value": 282500,
+    "Median Tax": 932,
+    "Effective Rate": 0.0033,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Washington County",
+    "Median Home Value": 208300,
+    "Median Tax": 924,
+    "Effective Rate": 0.0044,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Delta County",
+    "Median Home Value": 291400,
+    "Median Tax": 923,
+    "Effective Rate": 0.0032,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Rio Grande County",
+    "Median Home Value": 202300,
+    "Median Tax": 830,
+    "Effective Rate": 0.00409999999999999,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Kiowa County",
+    "Median Home Value": 127400,
+    "Median Tax": 821,
+    "Effective Rate": 0.0064,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "Rio Blanco County",
+    "Median Home Value": 231800,
+    "Median Tax": 810,
+    "Effective Rate": 0.00349999999999999,
+    "Group": "Medium-Low"
+  },
+  {
+    "County": "San Juan County",
+    "Median Home Value": 344600,
+    "Median Tax": 800,
+    "Effective Rate": 0.0023,
+    "Group": "Low"
+  },
+  {
+    "County": "Lincoln County",
+    "Median Home Value": 238000,
+    "Median Tax": 768,
+    "Effective Rate": 0.0032,
+    "Group": "Low"
+  },
+  {
+    "County": "Cheyenne County",
+    "Median Home Value": 166300,
+    "Median Tax": 743,
+    "Effective Rate": 0.0045,
+    "Group": "Low"
+  },
+  {
+    "County": "Saguache County",
+    "Median Home Value": 166500,
+    "Median Tax": 733,
+    "Effective Rate": 0.0044,
+    "Group": "Low"
+  },
+  {
+    "County": "Huerfano County",
+    "Median Home Value": 231200,
+    "Median Tax": 677,
+    "Effective Rate": 0.0029,
+    "Group": "Low"
+  },
+  {
+    "County": "Conejos County",
+    "Median Home Value": 154500,
+    "Median Tax": 645,
+    "Effective Rate": 0.0042,
+    "Group": "Low"
+  },
+  {
+    "County": "Sedgwick County",
+    "Median Home Value": 136000,
+    "Median Tax": 591,
+    "Effective Rate": 0.0043,
+    "Group": "Low"
+  },
+  {
+    "County": "Bent County",
+    "Median Home Value": 110700,
+    "Median Tax": 520,
+    "Effective Rate": 0.00469999999999999,
+    "Group": "Low"
+  },
+  {
+    "County": "Baca County",
+    "Median Home Value": 119700,
+    "Median Tax": 514,
+    "Effective Rate": 0.0043,
+    "Group": "Low"
+  },
+  {
+    "County": "Las Animas County",
+    "Median Home Value": 190900,
+    "Median Tax": 510,
+    "Effective Rate": 0.0027,
+    "Group": "Low"
+  },
+  {
+    "County": "Costilla County",
+    "Median Home Value": 145200,
+    "Median Tax": 501,
+    "Effective Rate": 0.00349999999999999,
+    "Group": "Low"
+  },
+  {
+    "County": "Otero County",
+    "Median Home Value": 132600,
+    "Median Tax": 491,
+    "Effective Rate": 0.0037,
+    "Group": "Low"
+  },
+  {
+    "County": "Crowley County",
+    "Median Home Value": 92700,
+    "Median Tax": 484,
+    "Effective Rate": 0.0052,
+    "Group": "Low"
+  },
+  {
+    "County": "Jackson County",
+    "Median Home Value": 227300,
+    "Median Tax": 477,
+    "Effective Rate": 0.0021,
+    "Group": "Low"
+  },
+  {
+    "County": "Dolores County",
+    "Median Home Value": 208000,
+    "Median Tax": 466,
+    "Effective Rate": 0.0022,
+    "Group": "Low"
+  },
+  {
+    "County": "Prowers County",
+    "Median Home Value": 120200,
+    "Median Tax": 435,
+    "Effective Rate": 0.0036,
+    "Group": "Low"
+  }
+]
